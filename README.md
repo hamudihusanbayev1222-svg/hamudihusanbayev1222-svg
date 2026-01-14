@@ -1,62 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=⚡%20Assalomu%20Alaykum!%20⚡&desc=Muhammadjon%20Husanbayev%20🚀%20Python%20Developer&descAlignY=65&fontColor=ffffff&fontSize=38&fontAlignY=32&animation=fadeIn&fontAlign=50&color=gradient&gradient=667eea,764ba2,4facfe,00f2fe&stroke=ffffff&strokeWidth=3" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=250&text=Muhammadjon%20Husanbayev&desc=High-Performance%20Backend%20Developer&fontColor=ffffff&fontSize=45&fontAlignY=40&color=000000&stroke=4facfe&strokeWidth=2&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=800&color=4FACFE&center=true&vCenter=true&width=750&lines=⚡+Building+Epic+Web+Applications+⚡;🚀+Python+%7C+FastAPI+%7C+Clean+Code+🚀;💎+Crafting+Digital+Solutions+💎;🔥+Always+Coding%2C+Always+Growing+🔥" alt="Typing Animation" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-<div style="margin: 20px 0;">
-<img src="https://img.shields.io/badge/🏠_Farg'ona,_Uzbekistan_🇺🇿-4FACFE?style=for-the-badge&logo=home&logoColor=white&labelColor=667eea" />
-<img src="https://img.shields.io/badge/💻_Python_Developer_🐍-00F2FE?style=for-the-badge&logo=python&logoColor=white&labelColor=667eea" />
-<img src="https://img.shields.io/badge/🎯_Backend_Expert_⚡-764ba2?style=for-the-badge&logo=server&logoColor=white&labelColor=667eea" />
+### 🚀 Turning complex logic into elegant code.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FACFE&center=true&vCenter=true&width=500&lines=Full-Stack+Python+Developer;Scalable+Backend+Systems;Clean+Architecture+Enthusiast;Continuous+Learner+and+Builder" />
+
+---
+
+## 🛰️ Digital Universe
+
+<div align="left">
+<table>
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <h3>🎯 About Me</h3>
+      <ul>
+        <li>📍 Based in <b>Fergana, Uzbekistan</b></li>
+        <li>💻 Specialized in <b>FastAPI</b> and <b>Distributed Systems</b></li>
+        <li>🏗️ Building production-ready microservices</li>
+        <li>🌱 Currently exploring <b>Cloud Native</b> technologies</li>
+        <li>💬 Ask me about <b>Python, SQL, or API Design</b></li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamudhusanbayev1222-svg&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=4facfe" width="350px" />
+    </td>
+  </tr>
+</table>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=hamudhusanbayev1222-svg&style=for-the-badge&color=4FACFE&label=👀+VISITORS&labelColor=667eea" />
+---
+
+## 🛠️ My Toolbox
+
+<div align="center">
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,js,html,css" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,django,flask,express" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" /> |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx" /> |
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 📈 Activity & Stats
 
-<table align="center">
-<tr>
-<td align="center" width="45%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamudhusanbayev1222-svg&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=4facfe" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamudhusanbayev1222-svg&theme=vision-friendly-dark&hide_border=true&stroke=4facfe" height="170px" />
+</p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpbm52bmVpZGR6bmR6bmR6bmR6bmR6bmR6bmR6bmR6bmR6bmR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Gif" style="border-radius: 15px;" />
-</td>
-<td align="center" width="55%">
+---
 
-```python
-class CoolDeveloper:
-    def __init__(self):
-        self.name = "Muhammadjon Husanbayev 🚀"
-        self.role = "Python Developer 💻"
-        self.location = "Farg'ona, UZ 🏠"
-        self.vibe = "Always Coding 😎"
-        self.learning = ["FastAPI 🚀", "React ⚛️", "Docker 🐳"]
-    
-    def get_skills(self):
-        return {
-            "backend": ["Python", "FastAPI", "Django"],
-            "frontend": ["React", "JS", "Tailwind"],
-            "ops": ["Docker", "Git", "CI/CD"]
-        }
-    
-    def daily_grind(self):
-        return "☕ Coffee -> 💻 Code -> 🚀 Deploy"
+## ⚡ Get In Touch
 
-me = CoolDeveloper()
-print(me.daily_grind())
+<div align="center">
 
-</td> </tr> </table>
-⚡ Tech Stack
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khusanbayev_571)
+[![Email](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamudihusanbayev1222@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamudhusanbayev1222-svg)
 
-<div align="center"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy,fastapi,django,js,react,tailwind,postgres,mongodb,docker,git,linux,vscode" /> </div>
-📊 GitHub Stats
+</div>
 
-<div align="center"> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dhamudhusanbayev1222-svg%26show_icons%3Dtrue%26title_color%3D4facfe%26icon_color%3D764ba2%26text_color%3Dffffff%26bg_color%3D1a1a1a%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue" /> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dhamudhusanbayev1222-svg%26layout%3Dcompact%26title_color%3D4facfe%26text_color%3Dffffff%26bg_color%3D1a1a1a%26hide_border%3Dtrue" /> </div>
-🤝 Connect With Me
+<br />
 
-<div align="center"> <a href="https://t.me/khusanbayev_571"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Telegram-26A5E4%3Fstyle%3Dfor-the-badge%26logo%3Dtelegram%26logoColor%3Dwhite" /> </a> <a href="mailto:hamudihusanbayev1222@gmail.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /> </a> <a href="https://github.com/hamudhusanbayev1222-svg"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" /> </a> </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=000000&text=Built%20with%20❤️%20by%20Muhammadjon&fontSize=18&fontColor=4facfe" />
+</div>
 
-<div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /> <p><i>"The best way to predict the future is to invent it."</i></p> </div>
+</div>
