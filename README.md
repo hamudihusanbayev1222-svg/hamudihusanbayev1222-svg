@@ -23,14 +23,6 @@
 <td align="center" width="45%">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpbm52bmVpZGR6bmR6bmR6bmR6bmR6bmR6bmR6bmR6bmR6bmR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Gif" style="border-radius: 15px;" />
-
-**🔥 Cool Facts:**
-- 🎮 Love building complex systems
-- ☕ Fueled by curiosity and passion
-- 🚀 Always pushing boundaries
-- 💎 Passionate about Clean Architecture
-- 🌟 Crafting scalable solutions
-
 </td>
 <td align="center" width="55%">
 
